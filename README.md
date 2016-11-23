@@ -1,7 +1,7 @@
-#[awesome-github](https://github.com/AntBranch/awesome-github)
+#[resource of github](https://github.com/skyroam/resource-of-github)
 [![Slack](https://antbr.herokuapp.com/badge.svg)](https://antbr.herokuapp.com/) 
 
-收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+收集这个[resource of github](https://github.com/skyroam/resource-of-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
 - [教程](#教程)
     - [通用教程](#通用教程)
